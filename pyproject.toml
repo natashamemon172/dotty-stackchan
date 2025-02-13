@@ -3,3 +3,4 @@ name = "dotty-stackchan"
 version = "0.1.0"
 description = "Self-hosted voice-assistant stack for the M5Stack StackChan desktop robot. Local ASR/TTS, pluggable LLM brain, kid-mode default, no cloud required."
 requires-python = ">=3.10"
+# handle the edge case from the last release
